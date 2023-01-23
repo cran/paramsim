@@ -1,0 +1,12 @@
+009af389d8be26578d2699c8cd87e315 *DESCRIPTION
+a9bf637733fb662e7db9aa528789e0e1 *NAMESPACE
+5f9e4aa0e5a856921074572313d72c5f *R/arimasim.R
+de808bc31fb7c68684e572e7600aa68a *R/arimasims.R
+aa68897ff52842c8a98ffbd55d5ed3f9 *build/vignette.rds
+d9edfb0b57e623bc9333f98fcb14788d *inst/doc/paramsim.R
+c9258fe4c663cfa436020f0173fc15e9 *inst/doc/paramsim.Rmd
+f7bdc72aa2e01df72140901d79747e18 *inst/doc/paramsim.html
+a871abb43d432a82afee659d57f75ff6 *man/This.Rd
+413492bb58c9d8ed56899fd820a947fd *tests/testthat.R
+d34d57f82ae1e156fb594850d28fc2ff *tests/testthat/test-r_pack_setup.R
+c9258fe4c663cfa436020f0173fc15e9 *vignettes/paramsim.Rmd
